@@ -1,2 +1,6 @@
-# Repository description
-The repository contains folders with data analysis projects. Each folder contains a project file in jpynb and a project description README.
+# Описание репозитория
+В репозитории содержатся учебные проекты по анализу данных в формате jpynb.
+____
+| Проект | Описание |
+|:----|:----|
+| [Яндекс.Музыка](https://github.com/csvictorie/ya_practicum_projects/blob/main/1.%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.ipynb) | Исследование поведения пользователей Яндекс.Музыки в Москве и Санкт-Петербурге. |
