@@ -1,5 +1,7 @@
 # Описание учебных проектов
-В репозитории содержатся ссылки на учебные проекты по анализу данных в формате jpynb.
+В репозитории содержатся ссылки на учебные проекты по анализу данных в рамках обучения на курсе Аналитик данных (в формате jpynb).
+
+[Диплом об окончании курса](https://drive.google.com/file/d/1IrpjXOZRnrvHB58-aP94zVE8ge-j1L6Y/view?usp=sharing) ([eng](https://drive.google.com/file/d/1hl99-5iqAOnpObwJNlmPkr6nphEeGRhF/view?usp=sharing)).
 
 Согласно NDA Яндекс.Практикума не разрешено публиковать проекты в открытом доступе. Напишите мне в телеграм [@csvictorie](https://t.me/csvictorie) или на почту csvictorie@gmail.com, и я с радостью открою доступ к проектам.
 ____
