@@ -1,5 +1,5 @@
 # Описание репозитория
-В репозитории содержатся 10 учебных проектов (в формате jpynb) и 2 дашборда (Tableau Public) по анализу данных в рамках обучения на курсе Аналитик данных.
+В репозитории содержатся 12 учебных проектов (в формате jpynb) и 2 дашборда (Tableau Public) по анализу данных в рамках обучения на курсе Аналитик данных.
 
 [Диплом об окончании курса](https://drive.google.com/file/d/1IrpjXOZRnrvHB58-aP94zVE8ge-j1L6Y/view?usp=sharing) ([eng](https://drive.google.com/file/d/1hl99-5iqAOnpObwJNlmPkr6nphEeGRhF/view?usp=sharing)).
 ____
